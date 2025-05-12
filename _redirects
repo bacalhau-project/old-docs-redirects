@@ -46,7 +46,7 @@
 /references/help-and-faq/glossary https://bacalhau.org/docs/references/glossary 301
 
 # Removed/Relocated references
-/references https://bacalhau.org/docs/references 301
+/references/operations/* https://bacalhau.org/docs/getting-started/network-setup 301
 /references/setting-up https://bacalhau.org/docs/getting-started/network-setup 301
 /references/setting-up/running-node https://bacalhau.org/docs/getting-started/network-setup 301
 /references/setting-up/running-node/quick-start-docker https://bacalhau.org/docs/getting-started/network-setup 301
