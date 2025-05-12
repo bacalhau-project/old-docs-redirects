@@ -19,6 +19,18 @@
 /use-cases/*           https://bacalhau.org/use-cases/:splat 301
 /examples/*            https://bacalhau.org/use-cases 301
 
+/cli-api            https://bacalhau.org/docs/cli 301
+/cli-api/cli/readme/*	https://bacalhau.org/docs/cli/job/:splat 301
+/cli-api/cli/*	https://bacalhau.org/docs/cli/:splat 301
+
+/cli-api/api/overview  https://bacalhau.org/docs/api 301
+/cli-api/api/*	https://bacalhau.org/docs/api/:splat 301
+
+/cli-api/specifications/engines/* https://bacalhau.org/docs/engines/:splat 301
+/cli-api/specifications/publishers/* https://bacalhau.org/docs/publishers/:splat 301
+/cli-api/specifications/sources/* https://bacalhau.org/docs/sources/:splat 301
+/cli-api/specifications/*	https://bacalhau.org/docs/specifications/:splat 301
+
 # Root redirect
 /                       https://bacalhau.org/docs 301
 
