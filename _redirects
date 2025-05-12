@@ -4,6 +4,8 @@
 /getting-started/cli    https://bacalhau.org/docs/basics/:splat 301
 /common-workflows/*     https://bacalhau.org/docs/guides/:splat 301
 
+/common-pitfalls        https://bacalhau.org/docs/references/troubleshooting 301
+
 # Root redirect
 /                       https://bacalhau.org/docs 301
 
