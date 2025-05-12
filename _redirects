@@ -3,7 +3,7 @@
 /getting-started/*    https://bacalhau.org/docs/getting-started/:splat         301
 
 # Root redirect
-/                       https://bacalhau.org                              301
+/                       https://bacalhau.org/docs                              301
 
 # Catch-all redirect
 /*                      https://bacalhau.org                              301
