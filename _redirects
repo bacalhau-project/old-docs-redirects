@@ -41,7 +41,7 @@
 /references/developers/running-locally https://bacalhau.org/docs/references/developers/running-locally 301
 /references/setting-up/workload-onboarding/container/* https://bacalhau.org/docs/references/developers/workload-onboarding/docker 301
 /references/setting-up/workload-onboarding/wasm-workload-onboarding/* https://bacalhau.org/docs/references/developers/workload-onboarding/wasm 301
-/references/setting-up/workload-onboarding/python https://bacalhau.org/docs/references/developers/workload-onboarding/docker 301
+/references/setting-up/workload-onboarding/python/* https://bacalhau.org/docs/references/developers/workload-onboarding/docker 301
 /references/help-and-faq/faqs https://bacalhau.org/docs/references/faq 301
 /references/help-and-faq/glossary https://bacalhau.org/docs/references/glossary 301
 
