@@ -46,7 +46,8 @@
 /references/help-and-faq/glossary https://bacalhau.org/docs/references/glossary 301
 
 # Removed/Relocated references
-/references/ https://bacalhau.org/docs/getting-started/network-setup 301
+/references https://bacalhau.org/docs/references 301
+/references/setting-up https://bacalhau.org/docs/getting-started/network-setup 301
 /references/setting-up/running-node https://bacalhau.org/docs/getting-started/network-setup 301
 /references/setting-up/running-node/quick-start-docker https://bacalhau.org/docs/getting-started/network-setup 301
 /references/setting-up/running-node/job-selection https://bacalhau.org/docs/guides/selection-policy 301
@@ -59,7 +60,6 @@
 /references/setting-up/hardware-setup https://bacalhau.org/docs/guides/resource-requirements 301
 /references/guides/jobs/job-queuing https://bacalhau.org/docs/guides/queueing 301
 /references/guides/jobs/using-labels-and-constraints https://bacalhau.org/docs/guides/labels-and-constraints 301
-/references https://bacalhau.org/docs/references 301
 
 /community 	https://bacalhau.org/community 301
 /community/community/*	https://bacalhau.org/community/:splat 301
