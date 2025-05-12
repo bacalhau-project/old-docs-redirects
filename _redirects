@@ -1,14 +1,18 @@
 # Exact redirects
 /overview/*                     https://bacalhau.org/docs/overview/:splat 301
-/getting-started/*              https://bacalhau.org/docs/getting-started/:splat 301
 /getting-started/cli/overview   https://bacalhau.org/docs/cli 301
 /getting-started/cli/*            https://bacalhau.org/docs/basics/:splat 301
+/getting-started/*              https://bacalhau.org/docs/getting-started/:splat 301
 
 /common-workflows/publishing-and-retrieving-results   https://bacalhau.org/docs/guides/publishing-results 301
 /common-workflows/resource-constraints                https://bacalhau.org/docs/guides/resource-requirements 301
 /common-workflows/*                                   https://bacalhau.org/docs/guides/:splat 301
 
 /common-pitfalls        https://bacalhau.org/docs/references/troubleshooting 301
+
+/use-cases/integrations  https://bacalhau.org/integrations/:splat 301
+/use-cases/*           https://bacalhau.org/use-cases/:splat 301
+/examples/*            https://bacalhau.org/use-cases 301
 
 # Root redirect
 /                       https://bacalhau.org/docs 301
