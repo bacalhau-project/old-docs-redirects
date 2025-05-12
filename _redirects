@@ -58,6 +58,7 @@
 /references/setting-up/hardware-setup https://bacalhau.org/docs/guides/resource-requirements 301
 /references/guides/jobs/job-queuing https://bacalhau.org/docs/guides/queueing 301
 /references/guides/jobs/using-labels-and-constraints https://bacalhau.org/docs/guides/labels-and-constraints 301
+/references https://bacalhau.org/docs/references 301
 
 /community 	https://bacalhau.org/community 301
 /community/community/*	https://bacalhau.org/community/:splat 301
