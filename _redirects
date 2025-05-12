@@ -1,2 +1,9 @@
+# Exact redirects
+/overview/*           https://bacalhau.org/docs/overview/:splat         301
+/getting-started/*    https://bacalhau.org/docs/getting-started/:splat         301
+
+# Root redirect
+/                       https://bacalhau.org                              301
+
 # Catch-all redirect
 /*                      https://bacalhau.org                              301
