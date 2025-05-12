@@ -31,6 +31,9 @@
 /cli-api/specifications/sources/* https://bacalhau.org/docs/sources/:splat 301
 /cli-api/specifications/*	https://bacalhau.org/docs/specifications/:splat 301
 
+/community 	https://bacalhau.org/community 301
+/community/community/*	https://bacalhau.org/community/:splat 301
+
 # Root redirect
 /                       https://bacalhau.org/docs 301
 
