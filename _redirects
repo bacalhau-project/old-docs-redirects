@@ -15,7 +15,7 @@
 /use-cases/readme/fleet-management https://bacalhau.org/use-cases/fleet-management 301
 /use-cases/readme/distributed-machine-learning https://bacalhau.org/use-cases/distributed-machine-learning 301
 /use-cases/readme/edge-computing https://bacalhau.org/use-cases/edge-computing 301
-/use-cases/integrations  https://bacalhau.org/integrations/:splat 301
+/use-cases/integrations/*  https://bacalhau.org/integrations/:splat 301
 /use-cases/*           https://bacalhau.org/use-cases/:splat 301
 /examples/*            https://bacalhau.org/use-cases 301
 
