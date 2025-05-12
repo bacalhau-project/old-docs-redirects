@@ -2,7 +2,7 @@
 /overview/*                     https://bacalhau.org/docs/overview/:splat 301
 /getting-started/*              https://bacalhau.org/docs/getting-started/:splat 301
 /getting-started/cli/overview   https://bacalhau.org/docs/cli 301
-/getting-started/cli            https://bacalhau.org/docs/basics/:splat 301
+/getting-started/cli/*            https://bacalhau.org/docs/basics/:splat 301
 /common-workflows/*             https://bacalhau.org/docs/guides/:splat 301
 
 /common-pitfalls        https://bacalhau.org/docs/references/troubleshooting 301
