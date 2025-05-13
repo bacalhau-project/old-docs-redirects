@@ -14,15 +14,18 @@
 /overview/*                     https://bacalhau.org/docs/overview/:splat 301
 
 # Getting Started Section
-/getting-started/cli/overview   https://bacalhau.org/docs/cli 301
-/getting-started/cli/*          https://bacalhau.org/docs/basics/:splat 301
-/getting-started/*              https://bacalhau.org/docs/getting-started/:splat 301
+/getting-started/cli/overview               https://bacalhau.org/docs/cli 301
+/getting-started/cli/*                      https://bacalhau.org/docs/basics/:splat 301
+/getting-started/create-private-network/*   https://bacalhau.org/docs/getting-started/network-setup 301
+/getting-started/architecture               https://bacalhau.org/docs/overview/architecture 301
+/getting-started/*                          https://bacalhau.org/docs/getting-started/:splat 301
 
 # Common Workflows Section
 /common-workflows/publishing-and-retrieving-results   https://bacalhau.org/docs/guides/publishing-results 301
 /common-workflows/resource-constraints                https://bacalhau.org/docs/guides/resource-requirements 301
 /common-workflows/*                                   https://bacalhau.org/docs/guides/:splat 301
 /common-pitfalls                                      https://bacalhau.org/docs/references/troubleshooting 301
+/guides/using-labels-and-constraints                  https://bacalhau.org/docs/guides/labels-and-constraints
 
 # Use Cases Section
 /use-cases/readme/log-processing                https://bacalhau.org/use-cases/log-processing 301
@@ -71,6 +74,7 @@
 /references/setting-up/running-node/gpu         https://bacalhau.org/docs/references/operators/gpu 301
 /references/setting-up/gpu                      https://bacalhau.org/docs/references/operators/gpu 301
 /references/setting-up/node_management          https://bacalhau.org/docs/references/operators/node-management 301
+/guides/configuration-management                https://bacalhau.org/docs/references/operators/configuration-reference 301
 
 # Security References
 /references/setting-up/auth_flow                https://bacalhau.org/docs/references/operators/security/auth 301
@@ -94,6 +98,7 @@
 /references/setting-up/hardware-setup                  https://bacalhau.org/docs/guides/resource-requirements 301
 /references/guides/jobs/job-queuing                    https://bacalhau.org/docs/guides/queueing 301
 /references/guides/jobs/using-labels-and-constraints   https://bacalhau.org/docs/guides/labels-and-constraints 301
+/references/jobs/job/job-types                         https://bacalhau.org/docs/specifications/job/type 301
 
 # -----------------------
 # References - Relocated to Network Setup
@@ -102,7 +107,6 @@
 /references/setting-up                          https://bacalhau.org/docs/getting-started/network-setup 301
 /references/setting-up/running-node             https://bacalhau.org/docs/getting-started/network-setup 301
 /references/setting-up/running-node/quick-start-docker https://bacalhau.org/docs/getting-started/network-setup 301
-
 
 # ======================
 # GITBOOKS BROKEN LINKS
