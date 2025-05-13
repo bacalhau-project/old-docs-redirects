@@ -181,6 +181,7 @@
 # -------------------------
 /integrations/python-sdk 							 https://bacalhau.org/docs 301
 /references/databases                  https://bacalhau.org/docs 301
+/references/setting-up/update-checks   https://bacalhau.org/docs 301
 
 # ======================
 # CATCH-ALL REDIRECT
