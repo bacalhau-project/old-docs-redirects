@@ -52,8 +52,9 @@
 /cli-api/specifications/*             https://bacalhau.org/docs/specifications/:splat 301
 
 # Community Section
-/community                   https://bacalhau.org/community 301
-/community/community/*       https://bacalhau.org/community/:splat 301
+/community                              https://bacalhau.org/community/social-media 301
+/community/roadmap-and-release-notes/*  https://bacalhau.org/community/roadmap-and-release-notes/:splat 301
+/community/community/*                  https://bacalhau.org/community/:splat 301
 
 # ======================
 # REFERENCES SECTION
